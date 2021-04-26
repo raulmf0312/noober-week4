@@ -31,7 +31,7 @@ window.addEventListener('DOMContentLoaded', async function() {
     rideTypeName = rideType[2]    
   }
 
-  // Create an IF conditional to determine the coloring depending on whether the type is X, XL, or Purple.
+  // Create an IF conditional to determine the coloring depending on whether the ride type is X, XL, or Purple.
   let colorType = [`purple`,`red`,`gray`]
   let colorTypeName = ``
 
